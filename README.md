@@ -15,5 +15,3 @@ The GML-Net was developed to address the problem of detecting buildings in RGB a
   <img width=30% height=30% src="/Images/Ground_truth_mask.png"/>
   <img width=30% height=30% src="/Images/GML_Net_mask_prediction.png"/> 
 </p>
-
-![GitHub Logo](/Images/GML_Net_mask_prediction.png)
