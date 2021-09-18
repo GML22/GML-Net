@@ -15,3 +15,7 @@ The GML-Net was developed to address the problem of detecting buildings in RGB a
   <img width=30% height=30% src="/Images/Ground_truth_mask.png" rel="shortcut icon"/>
   <img width=30% height=30% src="/Images/GML_Net_mask_prediction.png" rel="shortcut icon"/>
 </p>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/Images/Ground_truth_mask.png)  |  ![](/Images/GML_Net_mask_prediction.png)
