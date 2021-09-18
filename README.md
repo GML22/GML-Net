@@ -7,4 +7,6 @@ The GML-Net is a convolutional neural network (CNN) that is based on U-Net archi
   <img width=50% height=50% src="https://drive.google.com/uc?id=1a8dpugYTcEceasTRQvjO78SzIyttRb-9">
 </p>
 
+<p align="justify">
 The GML-Net was developed to address the problem of detecting buildings in aerial images.
+</p>
