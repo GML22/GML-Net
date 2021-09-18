@@ -8,5 +8,5 @@ The GML-Net is a convolutional neural network (CNN) that is based on U-Net archi
 </p>
 
 <p align="justify">
-The GML-Net was developed to address the problem of detecting buildings in RGB aerial images. It was trained on <i>Inria Aerial Image Labeling Dataset</i> (<a hrf=url>https://project.inria.fr/aerialimagelabeling</a>).
+The GML-Net was developed to address the problem of detecting buildings in RGB aerial images. It was trained on <i>Inria Aerial Image Labeling Dataset</i> (<a hrf="url">https://project.inria.fr/aerialimagelabeling</a>).
 </p>
