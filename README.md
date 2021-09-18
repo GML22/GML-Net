@@ -4,8 +4,7 @@ The GML-Net is a convolutional neural network (CNN) that is based on U-Net archi
 </p>
 
 <p align="center">
-  <img width=75% height=75% src="https://drive.google.com/file/d/1g7Kg2_thaynIpR0psqhfIOG19XiJ8Nb3/view?usp=sharing">
-  
+  <img width=75% height=75% src="https://drive.google.com/uc?id=1g7Kg2_thaynIpR0psqhfIOG19XiJ8Nb3">
 </p>
 
 <p align="justify">
