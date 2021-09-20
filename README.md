@@ -19,10 +19,9 @@ Effective network learning of GML-Net was ensured by loss function defined as a 
 </p>
 
 <p align="center">
-  <img width=75% height=75% src="GML-Net Architecture.svg"/>
+  <img width=75% height=75% src="/Images/LF_formula.png"/>
 </p>
  
-  
   achiving 96.23% of Overall Acuurency (1.02% behind State of Art) and 74.42% of Intersecion over Union (6.64% behind SoA) - detailed leaderboard of <i>Inria Aerial Image Labeling Dataset</i> contest is available at: https://project.inria.fr/aerialimagelabeling/leaderboard.
 </p>
 
