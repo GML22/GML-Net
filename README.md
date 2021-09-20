@@ -15,7 +15,7 @@ The GML-Net was developed to address the problem of detecting buildings in RGB a
 ![](/Images/1444_samples.png)  |  ![](/Images/2D_Hann_windows.png)
   
 <p align="justify">
-Effective network learning of GML-Net was ensured by loss function defined as a weighted sum of Binary Cross-Entropy Loss (BCE), Dice Loss (DL) and Lovász hinge Loss (LHL) according to formula: \sum_{\forall i}{x_i^{2}}
+Effective network learning of GML-Net was ensured by loss function defined as a weighted sum of Binary Cross-Entropy Loss (BCE), Dice Loss (DL) and Lovász hinge Loss (LHL) according to formula: ![\sum_{\forall i}{x_i^{2}}](https://latex.codecogs.com/svg.latex?%5Csum_%7B%5Cforall+i%7D%7Bx_i%5E%7B2%7D%7D)
 </p>
  
   
