@@ -19,6 +19,10 @@ Effective network learning of GML-Net was ensured by loss function defined as a 
 </p>
 
 <p align="center">
+LF = 0.3 * BCE + 0.4 * DL + 0.3 * LHL
+</p>
+
+<p align="center">
   <img width=75% height=75% src="/Images/LF_formula.png"/>
 </p>
  
