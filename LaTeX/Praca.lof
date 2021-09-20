@@ -1,0 +1,62 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {polish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagram Venna ukazujący zależności pomiędzy głębokim uczeniem, uczeniem reprezentacji, uczeniem maszynowym a~sztuczną inteligencją \cite {goodfellow}\relax }}{8}{figure.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Przykładowy schemat neuronu zaprezentowany w~1943 roku przez Warrena McCullocha i~Waltera Pittsa \cite {mcculloch}\relax }}{14}{figure.caption.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Schematyczna reprezentacja połączeń w~prostym perceptronie zaprezentowana w~1958 roku przez Franka Rosenblatta \cite {rosenblatt}\relax }}{14}{figure.caption.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Schemat ADALINE zaprezentowany w 1960 roku przez Bernarda Widrowa i~Teda Hoffa \cite {widrow}\relax }}{15}{figure.caption.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagram pokazujący połączenia pomiędzy warstwami w~neocognitronie zaprezentowanym w~1980 roku przez Kunihiko Fukushimę \cite {fukushima2}\relax }}{16}{figure.caption.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Diagram pokazujący połączenia w~sieci rekurencyjnej zaprezentowanej w~1986 roku przez Michaela Irwina Jordana \cite {jordan}\relax }}{17}{figure.caption.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Schemat wielowarstwowego perceptronu zaprezentowany w 1986 roku przez Davida Rumelharta, Geoffreya Hintona i~Ronalda Williamsa \cite {rumelhart}\relax }}{17}{figure.caption.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Architektura sieci \emph {LeNet-5} stworzona w~1998 roku przez Yanna LeCuna \cite {lecun2}\relax }}{18}{figure.caption.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Architektura sieci \emph {LSTM} zaprezentowanej w~1997 roku przez Seppa Hochreitera i~Jürgena Schmidhubera \cite {hochreiter}\relax }}{19}{figure.caption.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Architektura sieci \emph {AlexNet} zaprezentowana w~2012 roku przez Alexa Krizhevsky'ego, Ilya Sutskevera i Geoffrey'a Hintona \cite {alexnet}\relax }}{21}{figure.caption.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Architektura sieci \emph {VGGNet} zaprezentowana w~2014 roku przez Karen Simonyan i~Andrew Zissermana \cite {simonyan}\relax }}{22}{figure.caption.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Architektura bloku \emph {Inception} zaprezentowana w~2014 roku w~artykule \emph {Going deeper with convolutions} \cite {szegedy}\relax }}{23}{figure.caption.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Architektura sieci \emph {GoogleNet} zaprezentowana w~2014 roku w~artykule \emph {Going deeper with convolutions} \cite {szegedy}\relax }}{24}{figure.caption.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Wizualizacja architektury modelu GAN (Źródło: \url {https://jrmerwin.github.io/deeplearning4j-docs/generative-adversarial-network.html})\relax }}{25}{figure.caption.29}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Schemat działania modelu \emph {R-CNN} zaprezentowany w~2014~roku przez Rossa Girshicka, Jeffa Donahue'a, Trevora Darrella i~Jitendra Malika \cite {girshick}\relax }}{26}{figure.caption.31}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Blok rezydualny zaprezentowany w~2015 roku przez He K., Zhang X., Ren S. i~Sun J. \cite {he}\relax }}{27}{figure.caption.33}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Przykładowa architektura sieci \emph {ResNet-34} zaprezentowana w~2015~roku przez He K., Zhang X., Ren S. i~Sun J. \cite {he}\relax }}{28}{figure.caption.34}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Architektura sieci \emph {U-Net} zaprezentowana w~2015 roku przez Olafa Ronnebergera, Philippa Fischera i~Thomasa Broxa \cite {ronneberger}\relax }}{29}{figure.caption.36}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Architektura bloku \emph {ASSP} zaprezentowana w~2017 roku przez Chen L., Papandreou G., Kokkinos I., Murphy K. oraz Yuille A. L. \cite {chen2}\relax }}{30}{figure.caption.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Architektura sieci \emph {YOLO} zaprezentowana w~2016 roku przez Josepha Redmona, Santosha Divvalsa, Rossa Girshicka i~Aliego Farhadiego \cite {redmon}\relax }}{31}{figure.caption.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Architektura bloku \emph {Squeeze-and-Excitation} zaprezentowana w~2017~roku przez Hu J., Shen L. i~Sun G.\cite {hu}\relax }}{32}{figure.caption.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Architektura sieci \emph {CapsNet} zaprezentowana w~2017 roku przez Geoffrey'a Hintona, Sarę Sabour i~Nicholasa Frossta \cite {hinton2}\relax }}{33}{figure.caption.44}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Architektura bloku \emph {Bottleneck} zaprezentowana w~2019 roku przez Zhou K., Yang Y., Cavallaro A. i Xiang T. \cite {zhou}\relax }}{34}{figure.caption.46}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Porównanie oryginalnego oraz przetransformowanego zdjęcia\relax }}{59}{figure.caption.48}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Architektura sieci \textit {GML-Net}\relax }}{61}{figure.caption.49}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Krzywe uczenia sieci \textit {GML-Net}\relax }}{88}{figure.caption.50}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Wybrane zdjęcie pochodzące ze zbioru walidacyjnego rozbite na 1444 podpóbki\relax }}{92}{figure.caption.51}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Wizualizacja dziewięciu okien Hanna 2D służących do właściwego ważenia predykcji poszczególnych fragmentów zdjęcia bazowego\relax }}{96}{figure.caption.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Oryginalna maska (\textit {ground truth})\relax }}{99}{figure.caption.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Maska wygenerowana przez sieć \textit {GML-Net}\relax }}{100}{figure.caption.54}%

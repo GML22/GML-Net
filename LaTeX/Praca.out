@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Wstep}{}% 1
+\BOOKMARK [1][-]{section.2}{Podstawy teoretyczne g\233ebokiego uczenia}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{G\233ebokie uczenie - podstawowe definicje}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Ewolucja architektur g\233ebokiego uczenia}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Cybernetyka \(1943 - 1969\)}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Konekcjonizm \(1980 - 1998\)}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.3}{G\233ebokie uczenie \(2006 - 2020\)}{subsection.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Proces uczenia sie g\233ebokich sieci neuronowych}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Przeglad literatury z zakresu detekcji budynk\363w na zdjeciach lotniczych}{}% 9
+\BOOKMARK [1][-]{section.4}{Konstrukcja sieci GML-Net}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{ Najwazniejsze hiperparametry sieci}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{ Dane uczace i ich transformacje}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{ Architektura sieci}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{ Trenowanie sieci}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Analiza wynik\363w}{}% 15
+\BOOKMARK [2][-]{subsection.5.1}{Generowanie finalnych predykcji}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.2}{Pomiar efektywnosci sieci GML-Net}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.3}{Uzyskane wyniki na tle literatury badawczej}{section.5}% 18
+\BOOKMARK [1][-]{section.6}{Zakonczenie}{}% 19
+\BOOKMARK [1][-]{section*.58}{Bibliografia}{}% 20
+\BOOKMARK [1][-]{section*.59}{Wykaz symboli i skr\363t\363w}{}% 21
+\BOOKMARK [1][-]{section*.59}{Spis rysunk\363w}{}% 22
+\BOOKMARK [1][-]{section*.59}{Spis tabel}{}% 23

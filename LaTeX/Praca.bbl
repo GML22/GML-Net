@@ -1,0 +1,2341 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{bischke}{article}{}
+      \name{author}{5}{}{%
+        {{hash=af45de29005d6db9307b4680492bcd7f}{%
+           family={{Bischke B.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=1ff16557f06ae541bd647569d64667f9}{%
+           family={{Helber P.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=aec8eef98794d830754f8273ab58fa65}{%
+           family={{Folz J.}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=0075d33aad1457e0bb3e32a356a9c38b}{%
+           family={{Borth D.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=886007ba70cac0750c61f2058be1dc09}{%
+           family={{Dengel A.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{514a49cbd3334a24600ccfa0876ec727}
+      \strng{fullhash}{271a4001fb38413459788f8db26ddc76}
+      \strng{bibnamehash}{271a4001fb38413459788f8db26ddc76}
+      \strng{authorbibnamehash}{271a4001fb38413459788f8db26ddc76}
+      \strng{authornamehash}{514a49cbd3334a24600ccfa0876ec727}
+      \strng{authorfullhash}{271a4001fb38413459788f8db26ddc76}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2019 IEEE International Conference on Image Processing (ICIP)}
+      \field{title}{Multi-Task Learning for Segmentation of Building Footprints with Deep Neural Networks}
+      \field{year}{2017}
+      \field{pages}{1480\bibrangedash 1484}
+      \range{pages}{5}
+    \endentry
+    \entry{chatterjee}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=cbd9c8d8332b703f9420154b2c094572}{%
+           family={{Chatterjee B.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=29fafcc7abcd50b005788768a4dd35d8}{%
+           family={{Poullis Ch.}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{fullhash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{bibnamehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{authorbibnamehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{authornamehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{authorfullhash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1912.09216.pdf}}
+      \field{title}{Semantic Segmentation from Remote Sensor Data and the Exploitation of Latent Learning for Classification of Auxiliary Tasks}
+      \field{year}{2019}
+    \endentry
+    \entry{chen2}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={{Chen L.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=2df082d3bc7b42259f3413d632ecffc9}{%
+           family={{Papandreou G.}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=e82397158da0f711ae242a38f9062115}{%
+           family={{Kokkinos I.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=b1769bbaa2660cbedf14832523ae4d85}{%
+           family={{Murphy K.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=3d2e3625bb3e88bcbaedb1c4d857f35f}{%
+           family={{Yuille A. L.}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{fullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{bibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authorbibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authornamehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{authorfullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{4}
+      \field{title}{DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs}
+      \field{volume}{40}
+      \field{year}{2017}
+      \field{pages}{834\bibrangedash 848}
+      \range{pages}{15}
+    \endentry
+    \entry{chen}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={{Chen L.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=2df082d3bc7b42259f3413d632ecffc9}{%
+           family={{Papandreou G.}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=e82397158da0f711ae242a38f9062115}{%
+           family={{Kokkinos I.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=b1769bbaa2660cbedf14832523ae4d85}{%
+           family={{Murphy K.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=3d2e3625bb3e88bcbaedb1c4d857f35f}{%
+           family={{Yuille A. L. }},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{fullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{bibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authorbibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authornamehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{authorfullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1412.7062.pdf}}
+      \field{title}{Semantic image segmentation with deep convolutional nets and fully connected CRFs}
+      \field{year}{2015}
+    \endentry
+    \entry{fukushima1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4d2b3b24379c52058ccdc095a13b043e}{%
+           family={{Fukushima K.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{fullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{bibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorbibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authornamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorfullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological cybernetics}
+      \field{number}{4}
+      \field{title}{Cognitron: A Self-Organizing Multilayered Neural Network}
+      \field{volume}{20}
+      \field{year}{1975}
+      \field{pages}{121\bibrangedash 136}
+      \range{pages}{16}
+    \endentry
+    \entry{fukushima2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4d2b3b24379c52058ccdc095a13b043e}{%
+           family={{Fukushima K.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{fullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{bibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorbibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authornamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorfullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological cybernetics}
+      \field{number}{4}
+      \field{title}{Neocognitron: A Self Organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position}
+      \field{volume}{36}
+      \field{year}{1980}
+      \field{pages}{193\bibrangedash 202}
+      \range{pages}{10}
+    \endentry
+    \entry{girard}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=c1d5062f4479a5bb7a6c39515c1db4e0}{%
+           family={{Girard N.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=716e77ccc387c3413ff3eb37a36a95b7}{%
+           family={{Smirnov D.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=4462fd0031dea52eb56192e05a335139}{%
+           family={{Solomon J.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=77882dd41935d4f37e93872f2dc53a85}{%
+           family={{Tarabalka Y.}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{be32a6dba27e6f8364202ebf4b194c77}
+      \strng{fullhash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \strng{bibnamehash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \strng{authorbibnamehash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \strng{authornamehash}{be32a6dba27e6f8364202ebf4b194c77}
+      \strng{authorfullhash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/2004.14875.pdf}}
+      \field{title}{Polygonal Building Segmentation by Frame Field Learning}
+      \field{year}{2020}
+    \endentry
+    \entry{girshick}{article}{}
+      \name{author}{4}{}{%
+        {{hash=54beefd8a2a6dc8ea32c277fc3036953}{%
+           family={{Girshick R.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=b239e1dc819c9e8af18907bb3a747a9b}{%
+           family={{Donahue J.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=ce2ead80f9cebfce73702f062ab9f1d0}{%
+           family={{Darrell T.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=268f1cf3441ac67fb387c58209a1c9c1}{%
+           family={{Malik J.}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b72ef9a72a1a3d8d80eb0c3efb4a55d4}
+      \strng{fullhash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \strng{bibnamehash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \strng{authorbibnamehash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \strng{authornamehash}{b72ef9a72a1a3d8d80eb0c3efb4a55d4}
+      \strng{authorfullhash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2014 IEEE Conference on Computer Vision and Pattern Recognition}
+      \field{title}{Rich feature hierarchies for accurate object detection and semantic segmentation}
+      \field{year}{2014}
+      \field{pages}{580\bibrangedash 587}
+      \range{pages}{8}
+    \endentry
+    \entry{golovanov}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cd05d4c81ab6cbca95f65396dfded3d4}{%
+           family={{Golovanov S.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=270aa70b5a620c5b76f97a5f2009cd69}{%
+           family={{Kurbanov R.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=88d4a66f8b9b335b2776285c7fa06ca6}{%
+           family={{Artamonov A.}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=fe87b1162f0997351db4f5569b4afef1}{%
+           family={{Davydow A.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=3270f6ad8f95dcc0a12ec34b4874c6ba}{%
+           family={{Nikolenko S.}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{5de1a9fbf8c518a7bc2d042590d9acca}
+      \strng{fullhash}{a6a214656ce576ffc294689ad1ed43e5}
+      \strng{bibnamehash}{a6a214656ce576ffc294689ad1ed43e5}
+      \strng{authorbibnamehash}{a6a214656ce576ffc294689ad1ed43e5}
+      \strng{authornamehash}{5de1a9fbf8c518a7bc2d042590d9acca}
+      \strng{authorfullhash}{a6a214656ce576ffc294689ad1ed43e5}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}
+      \field{title}{Building Detection from Satellite Imagery Using a Composite Loss Function}
+      \field{year}{2018}
+    \endentry
+    \entry{goodfellow}{book}{}
+      \name{author}{3}{}{%
+        {{hash=97448a3cf6f5cb771679d00efeb7782c}{%
+           family={{Goodfellow I.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=419350ebbeb4eba5351469f378dee007}{%
+           family={{Bengio Y.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=0162d284c680646fe3354338106399ce}{%
+           family={{Courville A.}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{fullhash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{bibnamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authorbibnamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authornamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authorfullhash}{046a68a306553a04a7fa3dbd33c044bb}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+    \endentry
+    \entry{he}{article}{}
+      \name{author}{4}{}{%
+        {{hash=65862d45e231b0e30a375caf05dcbd78}{%
+           family={{He K.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={{Zhang X.}},
+           familyi={Z\bibinitperiod}}}%
+        {{hash=501eafc23d19c914309ed7a5d6c07c8b}{%
+           family={{Ren\bibnamedelimb S}.},
+           familyi={R\bibinitperiod}}}%
+        {{hash=2d21a4c5b1b7b1da5165b2f8f62e700c}{%
+           family={{Sun J.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{10487afcca7bab85f6e0b894f5dc81dc}
+      \strng{fullhash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \strng{bibnamehash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \strng{authorbibnamehash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \strng{authornamehash}{10487afcca7bab85f6e0b894f5dc81dc}
+      \strng{authorfullhash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{Deep Residual Learning for Image Recognition}
+      \field{year}{2016}
+      \field{pages}{770\bibrangedash 778}
+      \range{pages}{9}
+    \endentry
+    \entry{hinton}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=6f184e488e6d9934cb1d68200ae11b9f}{%
+           family={{ Osindero S.}},
+           familyi={_\bibinitperiod}}}%
+        {{hash=9bdcbfa6faa81e6039b66e6cdbfc7201}{%
+           family={{Teh Y. W.}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{fullhash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{bibnamehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{authorbibnamehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{authornamehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{authorfullhash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computation}
+      \field{number}{7}
+      \field{title}{A Fast Learning Algorithm for Deep Belief Nets}
+      \field{volume}{18}
+      \field{year}{2006}
+      \field{pages}{1527\bibrangedash 1554}
+      \range{pages}{28}
+    \endentry
+    \entry{hinton2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=b3d6d7d8552bb9ee823823fa6afbb3ee}{%
+           family={{Sabour S.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=b214af5babdb00061cbf87ae6a1e22b5}{%
+           family={{Frosst N.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{fullhash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{bibnamehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{authorbibnamehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{authornamehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{authorfullhash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NIPS'17: Proceedings of the 31st International Conference on Neural Information Processing Systems}
+      \field{title}{Dynamic Routing Between Capsules}
+      \field{year}{2017}
+      \field{pages}{3859\bibrangedash 3869}
+      \range{pages}{11}
+    \endentry
+    \entry{hochreiter}{article}{}
+      \name{author}{2}{}{%
+        {{hash=67eed9a763828f8510ead534591a2d63}{%
+           family={{Hochreiter S.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=07e9fb186fd9976e6be82e64365dc308}{%
+           family={{Schmidhuber J.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{fullhash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{bibnamehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{authorbibnamehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{authornamehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{authorfullhash}{c955bbc46524c46b7bd1441b444cef54}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computation}
+      \field{number}{8}
+      \field{title}{Long Short-Term Memory}
+      \field{volume}{9}
+      \field{year}{1997}
+      \field{pages}{1735\bibrangedash 1780}
+      \range{pages}{46}
+    \endentry
+    \entry{hu}{article}{}
+      \name{author}{3}{}{%
+        {{hash=30c3519915a07c272d6fd946f3eaa35a}{%
+           family={{Hu J.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=33bb4efa1081b1f17b4613c31c37e617}{%
+           family={{Shen L.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=3c17377c2ffa1676c810d97c02f8c306}{%
+           family={{Sun G.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{fullhash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{bibnamehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{authorbibnamehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{authornamehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{authorfullhash}{1872f6ee4cedcd071d56ae62c9089719}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IIEEE/CVF Conference on Computer Vision and Pattern Recognition}
+      \field{title}{Squeeze-and-Excitation Networks}
+      \field{year}{2017}
+      \field{pages}{7132\bibrangedash 7141}
+      \range{pages}{10}
+    \endentry
+    \entry{iglovikov}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=cc20cb68ebc1073ca4829e799682958e}{%
+           family={{Iglovikov V.}},
+           familyi={I\bibinitperiod}}}%
+        {{hash=cfb9a0fdb6de852913c89dab5b823b29}{%
+           family={{Mushinskiy S.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=d696c4f46fb902bc27823edd7521dad0}{%
+           family={{Osin V.}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{fullhash}{389d9d186376278d121b7e914c0bf552}
+      \strng{bibnamehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{authorbibnamehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{authornamehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{authorfullhash}{389d9d186376278d121b7e914c0bf552}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1706.06169.pdf}}
+      \field{title}{Satellite Imagery Feature Detection using Deep Convolutional Neural Network: A Kaggle Competition}
+      \field{year}{2017}
+    \endentry
+    \entry{jordan}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=0442c01fb14007ee1da9ccea3dfe2597}{%
+           family={{Jordan M. I.}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{fullhash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{bibnamehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{authorbibnamehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{authornamehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{authorfullhash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{http://cseweb.ucsd.edu/~gary/258/jordan-tr.pdf}}
+      \field{title}{Serial order: A parallel distributed processing approach}
+      \field{year}{1986}
+    \endentry
+    \entry{alexnet}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=a98c6ee140cff383b5deb40f1bbadc4a}{%
+           family={{Krizhevsky A.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=a3cfbe74042f3457db587a42603e1509}{%
+           family={{Sutskever I.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{fullhash}{26522072181dda8d9fe5761faafcce42}
+      \strng{bibnamehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{authorbibnamehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{authornamehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{authorfullhash}{26522072181dda8d9fe5761faafcce42}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{http://www.cs.toronto.edu/~hinton/absps/imagenet.pdf}}
+      \field{title}{ImageNet classification with deep convolutional neural networks}
+      \field{year}{2012}
+    \endentry
+    \entry{lecun1}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9ae8dc3a930d73e11e1b22a9ef065055}{%
+           family={{LeCun Y.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=7eacb03f7d28612977f50d8cb1be0bad}{%
+           family={{Boser B.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=2ff32262125f2230f4fdc214030486c4}{%
+           family={{Denker J. S.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=1d66cfa216fa640e918783d1c120463c}{%
+           family={{Henderson D.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=1c36863cdb1999c03faa3c243dcda1a3}{%
+           family={{Howard R. E.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=ebda9ed808cef915758a63247dd83737}{%
+           family={{Hubbard W.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=d1aa31ea5533302c18283f093ceec347}{%
+           family={{Jackel L. D.}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{692e101f2c36b3709262e9deada35768}
+      \strng{fullhash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \strng{bibnamehash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \strng{authorbibnamehash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \strng{authornamehash}{692e101f2c36b3709262e9deada35768}
+      \strng{authorfullhash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural computation}
+      \field{number}{4}
+      \field{title}{Backpropagation Applied to Handwritten Zip Code Recognition}
+      \field{volume}{1}
+      \field{year}{1989}
+      \field{pages}{541\bibrangedash 551}
+      \range{pages}{11}
+    \endentry
+    \entry{lecun2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9ae8dc3a930d73e11e1b22a9ef065055}{%
+           family={{LeCun Y.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=bbfb0f3936c83b7b099561e6f0e32ef3}{%
+           family={{Bottou L.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=419350ebbeb4eba5351469f378dee007}{%
+           family={{Bengio Y.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=00f962380d25c4d7f23fa6c7e926c3ed}{%
+           family={{ Haffner P.}},
+           familyi={_\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{4a152c14d6e1d45a89a0853f9bfaef07}
+      \strng{fullhash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \strng{bibnamehash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \strng{authorbibnamehash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \strng{authornamehash}{4a152c14d6e1d45a89a0853f9bfaef07}
+      \strng{authorfullhash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{number}{11}
+      \field{title}{Gradient-based learning applied to document recognition}
+      \field{volume}{86}
+      \field{year}{1998}
+      \field{pages}{2278\bibrangedash 2324}
+      \range{pages}{47}
+    \endentry
+    \entry{mcculloch}{article}{}
+      \name{author}{2}{}{%
+        {{hash=34a3f288f711435a6bd4f754aaec633f}{%
+           family={{McCulloch W.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=93e9d958fdc1fb276c6cfc6c92608df6}{%
+           family={{Pitts W.}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{fullhash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{bibnamehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{authorbibnamehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{authornamehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{authorfullhash}{bd10ab8a38942211aeeb27c138cee174}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of Mathematical Biophysics}
+      \field{number}{4}
+      \field{title}{A logical calculus of the ideas immanent in nervous activity}
+      \field{volume}{5}
+      \field{year}{1943}
+      \field{pages}{115\bibrangedash 113}
+      \range{pages}{-1}
+    \endentry
+    \entry{minsky}{book}{}
+      \name{author}{2}{}{%
+        {{hash=721c99d43cc522aec6758f403f2b045b}{%
+           family={{Minsky M.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=7c1ee2240a074b9bf4f421381fcfae15}{%
+           family={{Seymour P.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{711ec020a28738749458ac18eab90abd}
+      \strng{fullhash}{711ec020a28738749458ac18eab90abd}
+      \strng{bibnamehash}{711ec020a28738749458ac18eab90abd}
+      \strng{authorbibnamehash}{711ec020a28738749458ac18eab90abd}
+      \strng{authornamehash}{711ec020a28738749458ac18eab90abd}
+      \strng{authorfullhash}{711ec020a28738749458ac18eab90abd}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perceptrons: an introduction to computational geometry}
+      \field{year}{1969}
+    \endentry
+    \entry{pielawski}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=9a77381d7c9d70b62273090e12315dff}{%
+           family={{Pielawski N.}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=b581e428efae45e944fbf6f6e283f887}{%
+           family={{Wählby C.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{fullhash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{bibnamehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{authorbibnamehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{authornamehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{authorfullhash}{1bfa99d5e033402815adb22fbfb85313}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1910.07831.pdf}}
+      \field{title}{Introducing Hann windows for reducing edge-effects in patch-based image segmentation}
+      \field{year}{2019}
+    \endentry
+    \entry{redmon}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0712b65985612db5b055749502dad611}{%
+           family={{Redmon J.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=331756fb4ae81fa78b8fc063bdd1c3f2}{%
+           family={{Divvals S.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=54beefd8a2a6dc8ea32c277fc3036953}{%
+           family={{Girshick R.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=3bbe7ca290dea3886736153a91529beb}{%
+           family={{Farhadi A.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{103237cb6b194e9e60e932927375988b}
+      \strng{fullhash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \strng{bibnamehash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \strng{authorbibnamehash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \strng{authornamehash}{103237cb6b194e9e60e932927375988b}
+      \strng{authorfullhash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{You Only Look Once: Unified, Real-Time Object Detection}
+      \field{year}{2016}
+      \field{pages}{779\bibrangedash 788}
+      \range{pages}{10}
+    \endentry
+    \entry{ronneberger}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c2394148bf52ac7983b45592c0d97619}{%
+           family={{Ronneberger O.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=0a7919e797ea52c2fcb95ad305247fc1}{%
+           family={{Fischer P.}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=6ea4130678efce0f25d7dbea53024f14}{%
+           family={{Brox T.}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{fullhash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{bibnamehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{authorbibnamehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{authornamehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{authorfullhash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015}
+      \field{title}{U-Net: Convolutional Networks for Biomedical Image Segmentation}
+      \field{volume}{9351}
+      \field{year}{2015}
+      \field{pages}{234\bibrangedash 241}
+      \range{pages}{8}
+    \endentry
+    \entry{rosenblatt}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1750cd87a34d44119e7a4aab9b8012c6}{%
+           family={{Rosenblatt F.}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{fullhash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{bibnamehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{authorbibnamehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{authornamehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{authorfullhash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{6}
+      \field{title}{The perceptron: a probabilistic model for information storage and organization in the brain}
+      \field{volume}{65}
+      \field{year}{1958}
+      \field{pages}{386\bibrangedash 408}
+      \range{pages}{23}
+    \endentry
+    \entry{rumelhart}{article}{}
+      \name{author}{3}{}{%
+        {{hash=980892af29a5c3eaadf9d6c1c9747255}{%
+           family={{Rumelhart D.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=95f9ca0841a320ed3f8654c3f22d57a9}{%
+           family={{Williams R.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {‎Nature Research‎}%
+      }
+      \strng{namehash}{b602528168dee0963992afeff77989e9}
+      \strng{fullhash}{b602528168dee0963992afeff77989e9}
+      \strng{bibnamehash}{b602528168dee0963992afeff77989e9}
+      \strng{authorbibnamehash}{b602528168dee0963992afeff77989e9}
+      \strng{authornamehash}{b602528168dee0963992afeff77989e9}
+      \strng{authorfullhash}{b602528168dee0963992afeff77989e9}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{9}
+      \field{title}{Learning representations by back propagating errors}
+      \field{volume}{323}
+      \field{year}{1986}
+      \field{pages}{533\bibrangedash 536}
+      \range{pages}{4}
+    \endentry
+    \entry{simonyan}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=5b5149059c2dab05b9a3f65f48c53618}{%
+           family={{Simonyan K.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=e77fd9dd5d9af3c798867760f8828744}{%
+           family={{Zisserman A.}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{fullhash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{bibnamehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{authorbibnamehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{authornamehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{authorfullhash}{237002a7525c88b3d398eb2b8869e1ab}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1409.1556.pdf}}
+      \field{title}{Very deep convolutional networks for large-scale image recognition}
+      \field{year}{2014}
+    \endentry
+    \entry{skarbek}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b65f89923eb91ae679705bea30b3f407}{%
+           family={{Skarbek W.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Polskie Towarzystwo Matematyczne‎}%
+      }
+      \strng{namehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{fullhash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{bibnamehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{authorbibnamehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{authornamehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{authorfullhash}{b65f89923eb91ae679705bea30b3f407}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fundamenta Informaticae}
+      \field{number}{2--4}
+      \field{title}{Symbolic Tensor Neural Networks for Digital Media – from Tensor Processing via BNF Graph Rules to CREAMS Applications}
+      \field{volume}{168}
+      \field{year}{2019}
+      \field{pages}{89\bibrangedash 184}
+      \range{pages}{96}
+    \endentry
+    \entry{szegedy}{article}{}
+      \name{author}{9}{}{%
+        {{hash=2fe7be08e2a7419155f665e53a21767b}{%
+           family={{Szegedy Ch.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=d8525af2f6ab588f2e4d6e5abd42ca8b}{%
+           family={{Liu W.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=0f98d24928baeb4dcd760770761b00a5}{%
+           family={{Jia Y.}},
+           familyi={J\bibinitperiod}}}%
+        {{hash=dc9b31b78e2bcd04e5d95faf06985377}{%
+           family={{Sermanet P.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=df5cdb92ab18d35ad62327f6a30470b5}{%
+           family={{Reed S.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=4e553eb4ac8e7ba949de58f14054e9bc}{%
+           family={{Anguelov D.}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=f74e1ac90a48757fd84990398d9e0a86}{%
+           family={{Erhan D.}},
+           familyi={E\bibinitperiod}}}%
+        {{hash=fc846293b06e7a0b5db2b968c5157eef}{%
+           family={{Vanhoucke V.}},
+           familyi={V\bibinitperiod}}}%
+        {{hash=e38a7b765df96fba84a12d13bdc1075e}{%
+           family={{Rabinovich A.}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{1ebab6a748b289e7e2c4fbb1c1de79c7}
+      \strng{fullhash}{513f6bae5db451feb8b7eda7703da065}
+      \strng{bibnamehash}{513f6bae5db451feb8b7eda7703da065}
+      \strng{authorbibnamehash}{513f6bae5db451feb8b7eda7703da065}
+      \strng{authornamehash}{1ebab6a748b289e7e2c4fbb1c1de79c7}
+      \strng{authorfullhash}{513f6bae5db451feb8b7eda7703da065}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{Going deeper with convolutions}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{widrow}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a407ab679b5a060c9a5c9210d093b5df}{%
+           family={{Widrow B.}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=c61df406c59702e1a962782bbc188494}{%
+           family={{Hoff T.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IRE}%
+      }
+      \strng{namehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{fullhash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{bibnamehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{authorbibnamehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{authornamehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{authorfullhash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{1960 IRE WESCON Convention Record}
+      \field{title}{Adaptive switching circuits}
+      \field{year}{1960}
+      \field{pages}{96\bibrangedash 104}
+      \range{pages}{9}
+    \endentry
+    \entry{wiener}{book}{}
+      \name{author}{1}{}{%
+        {{hash=92d5d66d33a1522113c90e979526c281}{%
+           family={{Wiener N.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{fullhash}{92d5d66d33a1522113c90e979526c281}
+      \strng{bibnamehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{authorbibnamehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{authornamehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{authorfullhash}{92d5d66d33a1522113c90e979526c281}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cybernetics: Or Control and Communication in the Animal and the Machine}
+      \field{year}{1948}
+    \endentry
+    \entry{wu}{article}{}
+      \name{author}{8}{}{%
+        {{hash=3a6190350332d4c29299ed40bff3613f}{%
+           family={{Wu G.}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=1abfb3ee7cf9bb9e063ff5c59a795cea}{%
+           family={{Shao X.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=d884429739dbbf05c81641e87893b8f0}{%
+           family={{Guo Z.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=6dbedad2342e7fdc31f6a6905f472c6d}{%
+           family={{Chen Q.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=a8777b15050065e44890631e4970c0ae}{%
+           family={{Yuan W.}},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=05f7e0c820360d2ead95928afd606a67}{%
+           family={{Shi X.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=2efac453cb818e3e871c3147d9153d6d}{%
+           family={{Xu Y.}},
+           familyi={X\bibinitperiod}}}%
+        {{hash=ae2a4f1050247081a54424fa995ba6a0}{%
+           family={{Shibasaki R.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI‎}%
+      }
+      \strng{namehash}{566ff943a6f148b230b01f4254b6402a}
+      \strng{fullhash}{085a5e6152a5f0885308c9b52568c9dd}
+      \strng{bibnamehash}{085a5e6152a5f0885308c9b52568c9dd}
+      \strng{authorbibnamehash}{085a5e6152a5f0885308c9b52568c9dd}
+      \strng{authornamehash}{566ff943a6f148b230b01f4254b6402a}
+      \strng{authorfullhash}{085a5e6152a5f0885308c9b52568c9dd}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{number}{3}
+      \field{title}{Automatic Building Segmentation of Aerial Imagery Using Multi-Constraint Fully Convolutional Networks}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{pages}{407\bibrangedash 425}
+      \range{pages}{19}
+    \endentry
+    \entry{yu}{article}{}
+      \name{author}{2}{}{%
+        {{hash=89b432fa4bb24ef9e7312fd806fb771b}{%
+           family={{Yu J.}},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=7b37b33590b6ced45c1ce1cddab2ef7a}{%
+           family={{Blaschko M.}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{fullhash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{bibnamehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{authorbibnamehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{authornamehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{authorfullhash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{3}
+      \field{title}{The Lovász Hinge: A Novel Convex Surrogate for Submodular Losses}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{pages}{735\bibrangedash 748}
+      \range{pages}{14}
+    \endentry
+    \entry{zagoruyko}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=6d84e4642dbd9d83c038f9c45a988765}{%
+           family={{Zagoruyko S.}},
+           familyi={Z\bibinitperiod},
+           given={{Komodakis N.}},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{fullhash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{bibnamehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{authorbibnamehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{authornamehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{authorfullhash}{6d84e4642dbd9d83c038f9c45a988765}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1605.07146.pdf}}
+      \field{title}{Wide Residual Networks}
+      \field{year}{2017}
+    \endentry
+    \entry{zhou}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b828859093337f367dec073885b8bfaa}{%
+           family={{Zhou K.}},
+           familyi={Z\bibinitperiod}}}%
+        {{hash=865de0ad624b442a018417bf6b85083e}{%
+           family={{Yang Y.}},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=997097c066bd1ae71022e838523a7be6}{%
+           family={and{Xiang\bibnamedelimb T.}},
+           familyi={a\bibinitperiod},
+           given={{Cavallaro A.}},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{fullhash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{bibnamehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{authorbibnamehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{authornamehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{authorfullhash}{771d2a0e094412665cde19dbc88aa601}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2019 IEEE/CVF International Conference on Computer Vision (ICCV)}
+      \field{title}{Omni-Scale Feature Learning for Person Reidentification}
+      \field{year}{2019}
+      \field{pages}{3701\bibrangedash 3711}
+      \range{pages}{11}
+    \endentry
+    \entry{zhu}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a6ce5334b2c4a46c7f7d08b1b2f5bc23}{%
+           family={{Zhu X.}},
+           familyi={Z\bibinitperiod}}}%
+        {{hash=6ac7a4bfc51836a9d9b209e2d6094659}{%
+           family={{Li X. Q.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=846f5daf861748af3cff8500355fae0d}{%
+           family={{Shi Y.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=bf1afb45a50313a87b61c9f7a08f8989}{%
+           family={{Huang X.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{380bee65b5e25ff01c35cee997f80223}
+      \strng{fullhash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \strng{bibnamehash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \strng{authorbibnamehash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \strng{authornamehash}{380bee65b5e25ff01c35cee997f80223}
+      \strng{authorfullhash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Geoscience and Remote Sensing}
+      \field{title}{Building Footprint Generation by Integrating Convolution Neural Network with Feature Pairwise Conditional Random Field (FPCRF)}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+    \endentry
+  \enddatalist
+  \datalist[entry]{none/global//global/global}
+    \entry{alexnet}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=a98c6ee140cff383b5deb40f1bbadc4a}{%
+           family={{Krizhevsky A.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=a3cfbe74042f3457db587a42603e1509}{%
+           family={{Sutskever I.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{fullhash}{26522072181dda8d9fe5761faafcce42}
+      \strng{bibnamehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{authorbibnamehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{authornamehash}{26522072181dda8d9fe5761faafcce42}
+      \strng{authorfullhash}{26522072181dda8d9fe5761faafcce42}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{http://www.cs.toronto.edu/~hinton/absps/imagenet.pdf}}
+      \field{title}{ImageNet classification with deep convolutional neural networks}
+      \field{year}{2012}
+    \endentry
+    \entry{zagoruyko}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=6d84e4642dbd9d83c038f9c45a988765}{%
+           family={{Zagoruyko S.}},
+           familyi={Z\bibinitperiod},
+           given={{Komodakis N.}},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{fullhash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{bibnamehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{authorbibnamehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{authornamehash}{6d84e4642dbd9d83c038f9c45a988765}
+      \strng{authorfullhash}{6d84e4642dbd9d83c038f9c45a988765}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1605.07146.pdf}}
+      \field{title}{Wide Residual Networks}
+      \field{year}{2017}
+    \endentry
+    \entry{zhou}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b828859093337f367dec073885b8bfaa}{%
+           family={{Zhou K.}},
+           familyi={Z\bibinitperiod}}}%
+        {{hash=865de0ad624b442a018417bf6b85083e}{%
+           family={{Yang Y.}},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=997097c066bd1ae71022e838523a7be6}{%
+           family={and{Xiang\bibnamedelimb T.}},
+           familyi={a\bibinitperiod},
+           given={{Cavallaro A.}},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{fullhash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{bibnamehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{authorbibnamehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{authornamehash}{771d2a0e094412665cde19dbc88aa601}
+      \strng{authorfullhash}{771d2a0e094412665cde19dbc88aa601}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2019 IEEE/CVF International Conference on Computer Vision (ICCV)}
+      \field{title}{Omni-Scale Feature Learning for Person Reidentification}
+      \field{year}{2019}
+      \field{pages}{3701\bibrangedash 3711}
+      \range{pages}{11}
+    \endentry
+    \entry{goodfellow}{book}{}
+      \name{author}{3}{}{%
+        {{hash=97448a3cf6f5cb771679d00efeb7782c}{%
+           family={{Goodfellow I.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=419350ebbeb4eba5351469f378dee007}{%
+           family={{Bengio Y.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=0162d284c680646fe3354338106399ce}{%
+           family={{Courville A.}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{fullhash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{bibnamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authorbibnamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authornamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authorfullhash}{046a68a306553a04a7fa3dbd33c044bb}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+    \endentry
+    \entry{wiener}{book}{}
+      \name{author}{1}{}{%
+        {{hash=92d5d66d33a1522113c90e979526c281}{%
+           family={{Wiener N.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{fullhash}{92d5d66d33a1522113c90e979526c281}
+      \strng{bibnamehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{authorbibnamehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{authornamehash}{92d5d66d33a1522113c90e979526c281}
+      \strng{authorfullhash}{92d5d66d33a1522113c90e979526c281}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cybernetics: Or Control and Communication in the Animal and the Machine}
+      \field{year}{1948}
+    \endentry
+    \entry{mcculloch}{article}{}
+      \name{author}{2}{}{%
+        {{hash=34a3f288f711435a6bd4f754aaec633f}{%
+           family={{McCulloch W.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=93e9d958fdc1fb276c6cfc6c92608df6}{%
+           family={{Pitts W.}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{fullhash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{bibnamehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{authorbibnamehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{authornamehash}{bd10ab8a38942211aeeb27c138cee174}
+      \strng{authorfullhash}{bd10ab8a38942211aeeb27c138cee174}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of Mathematical Biophysics}
+      \field{number}{4}
+      \field{title}{A logical calculus of the ideas immanent in nervous activity}
+      \field{volume}{5}
+      \field{year}{1943}
+      \field{pages}{115\bibrangedash 113}
+      \range{pages}{-1}
+    \endentry
+    \entry{rosenblatt}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1750cd87a34d44119e7a4aab9b8012c6}{%
+           family={{Rosenblatt F.}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{fullhash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{bibnamehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{authorbibnamehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{authornamehash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \strng{authorfullhash}{1750cd87a34d44119e7a4aab9b8012c6}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{6}
+      \field{title}{The perceptron: a probabilistic model for information storage and organization in the brain}
+      \field{volume}{65}
+      \field{year}{1958}
+      \field{pages}{386\bibrangedash 408}
+      \range{pages}{23}
+    \endentry
+    \entry{widrow}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a407ab679b5a060c9a5c9210d093b5df}{%
+           family={{Widrow B.}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=c61df406c59702e1a962782bbc188494}{%
+           family={{Hoff T.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IRE}%
+      }
+      \strng{namehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{fullhash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{bibnamehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{authorbibnamehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{authornamehash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \strng{authorfullhash}{695ebb4a717ceb0ce016aaef17c95e70}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{1960 IRE WESCON Convention Record}
+      \field{title}{Adaptive switching circuits}
+      \field{year}{1960}
+      \field{pages}{96\bibrangedash 104}
+      \range{pages}{9}
+    \endentry
+    \entry{minsky}{book}{}
+      \name{author}{2}{}{%
+        {{hash=721c99d43cc522aec6758f403f2b045b}{%
+           family={{Minsky M.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=7c1ee2240a074b9bf4f421381fcfae15}{%
+           family={{Seymour P.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{711ec020a28738749458ac18eab90abd}
+      \strng{fullhash}{711ec020a28738749458ac18eab90abd}
+      \strng{bibnamehash}{711ec020a28738749458ac18eab90abd}
+      \strng{authorbibnamehash}{711ec020a28738749458ac18eab90abd}
+      \strng{authornamehash}{711ec020a28738749458ac18eab90abd}
+      \strng{authorfullhash}{711ec020a28738749458ac18eab90abd}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perceptrons: an introduction to computational geometry}
+      \field{year}{1969}
+    \endentry
+    \entry{fukushima1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4d2b3b24379c52058ccdc095a13b043e}{%
+           family={{Fukushima K.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{fullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{bibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorbibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authornamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorfullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological cybernetics}
+      \field{number}{4}
+      \field{title}{Cognitron: A Self-Organizing Multilayered Neural Network}
+      \field{volume}{20}
+      \field{year}{1975}
+      \field{pages}{121\bibrangedash 136}
+      \range{pages}{16}
+    \endentry
+    \entry{fukushima2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4d2b3b24379c52058ccdc095a13b043e}{%
+           family={{Fukushima K.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{fullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{bibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorbibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authornamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorfullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological cybernetics}
+      \field{number}{4}
+      \field{title}{Neocognitron: A Self Organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position}
+      \field{volume}{36}
+      \field{year}{1980}
+      \field{pages}{193\bibrangedash 202}
+      \range{pages}{10}
+    \endentry
+    \entry{jordan}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=0442c01fb14007ee1da9ccea3dfe2597}{%
+           family={{Jordan M. I.}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{fullhash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{bibnamehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{authorbibnamehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{authornamehash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \strng{authorfullhash}{0442c01fb14007ee1da9ccea3dfe2597}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{http://cseweb.ucsd.edu/~gary/258/jordan-tr.pdf}}
+      \field{title}{Serial order: A parallel distributed processing approach}
+      \field{year}{1986}
+    \endentry
+    \entry{rumelhart}{article}{}
+      \name{author}{3}{}{%
+        {{hash=980892af29a5c3eaadf9d6c1c9747255}{%
+           family={{Rumelhart D.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=95f9ca0841a320ed3f8654c3f22d57a9}{%
+           family={{Williams R.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {‎Nature Research‎}%
+      }
+      \strng{namehash}{b602528168dee0963992afeff77989e9}
+      \strng{fullhash}{b602528168dee0963992afeff77989e9}
+      \strng{bibnamehash}{b602528168dee0963992afeff77989e9}
+      \strng{authorbibnamehash}{b602528168dee0963992afeff77989e9}
+      \strng{authornamehash}{b602528168dee0963992afeff77989e9}
+      \strng{authorfullhash}{b602528168dee0963992afeff77989e9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{9}
+      \field{title}{Learning representations by back propagating errors}
+      \field{volume}{323}
+      \field{year}{1986}
+      \field{pages}{533\bibrangedash 536}
+      \range{pages}{4}
+    \endentry
+    \entry{lecun1}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9ae8dc3a930d73e11e1b22a9ef065055}{%
+           family={{LeCun Y.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=7eacb03f7d28612977f50d8cb1be0bad}{%
+           family={{Boser B.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=2ff32262125f2230f4fdc214030486c4}{%
+           family={{Denker J. S.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=1d66cfa216fa640e918783d1c120463c}{%
+           family={{Henderson D.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=1c36863cdb1999c03faa3c243dcda1a3}{%
+           family={{Howard R. E.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=ebda9ed808cef915758a63247dd83737}{%
+           family={{Hubbard W.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=d1aa31ea5533302c18283f093ceec347}{%
+           family={{Jackel L. D.}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{692e101f2c36b3709262e9deada35768}
+      \strng{fullhash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \strng{bibnamehash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \strng{authorbibnamehash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \strng{authornamehash}{692e101f2c36b3709262e9deada35768}
+      \strng{authorfullhash}{ffc15443f8a7fdf7e6f50273527fa0b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural computation}
+      \field{number}{4}
+      \field{title}{Backpropagation Applied to Handwritten Zip Code Recognition}
+      \field{volume}{1}
+      \field{year}{1989}
+      \field{pages}{541\bibrangedash 551}
+      \range{pages}{11}
+    \endentry
+    \entry{lecun2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9ae8dc3a930d73e11e1b22a9ef065055}{%
+           family={{LeCun Y.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=bbfb0f3936c83b7b099561e6f0e32ef3}{%
+           family={{Bottou L.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=419350ebbeb4eba5351469f378dee007}{%
+           family={{Bengio Y.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=00f962380d25c4d7f23fa6c7e926c3ed}{%
+           family={{ Haffner P.}},
+           familyi={_\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{4a152c14d6e1d45a89a0853f9bfaef07}
+      \strng{fullhash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \strng{bibnamehash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \strng{authorbibnamehash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \strng{authornamehash}{4a152c14d6e1d45a89a0853f9bfaef07}
+      \strng{authorfullhash}{46d2e204dc0bc08d019fcff6774ca34f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{number}{11}
+      \field{title}{Gradient-based learning applied to document recognition}
+      \field{volume}{86}
+      \field{year}{1998}
+      \field{pages}{2278\bibrangedash 2324}
+      \range{pages}{47}
+    \endentry
+    \entry{hochreiter}{article}{}
+      \name{author}{2}{}{%
+        {{hash=67eed9a763828f8510ead534591a2d63}{%
+           family={{Hochreiter S.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=07e9fb186fd9976e6be82e64365dc308}{%
+           family={{Schmidhuber J.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{fullhash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{bibnamehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{authorbibnamehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{authornamehash}{c955bbc46524c46b7bd1441b444cef54}
+      \strng{authorfullhash}{c955bbc46524c46b7bd1441b444cef54}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computation}
+      \field{number}{8}
+      \field{title}{Long Short-Term Memory}
+      \field{volume}{9}
+      \field{year}{1997}
+      \field{pages}{1735\bibrangedash 1780}
+      \range{pages}{46}
+    \endentry
+    \entry{hinton}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=6f184e488e6d9934cb1d68200ae11b9f}{%
+           family={{ Osindero S.}},
+           familyi={_\bibinitperiod}}}%
+        {{hash=9bdcbfa6faa81e6039b66e6cdbfc7201}{%
+           family={{Teh Y. W.}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{fullhash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{bibnamehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{authorbibnamehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{authornamehash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \strng{authorfullhash}{2fdc3cc94e5a5f4f093c6f5cfa8dff10}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computation}
+      \field{number}{7}
+      \field{title}{A Fast Learning Algorithm for Deep Belief Nets}
+      \field{volume}{18}
+      \field{year}{2006}
+      \field{pages}{1527\bibrangedash 1554}
+      \range{pages}{28}
+    \endentry
+    \entry{simonyan}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=5b5149059c2dab05b9a3f65f48c53618}{%
+           family={{Simonyan K.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=e77fd9dd5d9af3c798867760f8828744}{%
+           family={{Zisserman A.}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{fullhash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{bibnamehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{authorbibnamehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{authornamehash}{237002a7525c88b3d398eb2b8869e1ab}
+      \strng{authorfullhash}{237002a7525c88b3d398eb2b8869e1ab}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1409.1556.pdf}}
+      \field{title}{Very deep convolutional networks for large-scale image recognition}
+      \field{year}{2014}
+    \endentry
+    \entry{szegedy}{article}{}
+      \name{author}{9}{}{%
+        {{hash=2fe7be08e2a7419155f665e53a21767b}{%
+           family={{Szegedy Ch.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=d8525af2f6ab588f2e4d6e5abd42ca8b}{%
+           family={{Liu W.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=0f98d24928baeb4dcd760770761b00a5}{%
+           family={{Jia Y.}},
+           familyi={J\bibinitperiod}}}%
+        {{hash=dc9b31b78e2bcd04e5d95faf06985377}{%
+           family={{Sermanet P.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=df5cdb92ab18d35ad62327f6a30470b5}{%
+           family={{Reed S.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=4e553eb4ac8e7ba949de58f14054e9bc}{%
+           family={{Anguelov D.}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=f74e1ac90a48757fd84990398d9e0a86}{%
+           family={{Erhan D.}},
+           familyi={E\bibinitperiod}}}%
+        {{hash=fc846293b06e7a0b5db2b968c5157eef}{%
+           family={{Vanhoucke V.}},
+           familyi={V\bibinitperiod}}}%
+        {{hash=e38a7b765df96fba84a12d13bdc1075e}{%
+           family={{Rabinovich A.}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{1ebab6a748b289e7e2c4fbb1c1de79c7}
+      \strng{fullhash}{513f6bae5db451feb8b7eda7703da065}
+      \strng{bibnamehash}{513f6bae5db451feb8b7eda7703da065}
+      \strng{authorbibnamehash}{513f6bae5db451feb8b7eda7703da065}
+      \strng{authornamehash}{1ebab6a748b289e7e2c4fbb1c1de79c7}
+      \strng{authorfullhash}{513f6bae5db451feb8b7eda7703da065}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{Going deeper with convolutions}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{girshick}{article}{}
+      \name{author}{4}{}{%
+        {{hash=54beefd8a2a6dc8ea32c277fc3036953}{%
+           family={{Girshick R.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=b239e1dc819c9e8af18907bb3a747a9b}{%
+           family={{Donahue J.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=ce2ead80f9cebfce73702f062ab9f1d0}{%
+           family={{Darrell T.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=268f1cf3441ac67fb387c58209a1c9c1}{%
+           family={{Malik J.}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b72ef9a72a1a3d8d80eb0c3efb4a55d4}
+      \strng{fullhash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \strng{bibnamehash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \strng{authorbibnamehash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \strng{authornamehash}{b72ef9a72a1a3d8d80eb0c3efb4a55d4}
+      \strng{authorfullhash}{9fd7b451f2fe16259dda6acaa22a044f}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2014 IEEE Conference on Computer Vision and Pattern Recognition}
+      \field{title}{Rich feature hierarchies for accurate object detection and semantic segmentation}
+      \field{year}{2014}
+      \field{pages}{580\bibrangedash 587}
+      \range{pages}{8}
+    \endentry
+    \entry{he}{article}{}
+      \name{author}{4}{}{%
+        {{hash=65862d45e231b0e30a375caf05dcbd78}{%
+           family={{He K.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={{Zhang X.}},
+           familyi={Z\bibinitperiod}}}%
+        {{hash=501eafc23d19c914309ed7a5d6c07c8b}{%
+           family={{Ren\bibnamedelimb S}.},
+           familyi={R\bibinitperiod}}}%
+        {{hash=2d21a4c5b1b7b1da5165b2f8f62e700c}{%
+           family={{Sun J.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{10487afcca7bab85f6e0b894f5dc81dc}
+      \strng{fullhash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \strng{bibnamehash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \strng{authorbibnamehash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \strng{authornamehash}{10487afcca7bab85f6e0b894f5dc81dc}
+      \strng{authorfullhash}{fd56efe18c9c03cbe940a52e2c9415a9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{Deep Residual Learning for Image Recognition}
+      \field{year}{2016}
+      \field{pages}{770\bibrangedash 778}
+      \range{pages}{9}
+    \endentry
+    \entry{ronneberger}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c2394148bf52ac7983b45592c0d97619}{%
+           family={{Ronneberger O.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=0a7919e797ea52c2fcb95ad305247fc1}{%
+           family={{Fischer P.}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=6ea4130678efce0f25d7dbea53024f14}{%
+           family={{Brox T.}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{fullhash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{bibnamehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{authorbibnamehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{authornamehash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \strng{authorfullhash}{dcf21d8fe60949edbff7bba1a17c182e}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015}
+      \field{title}{U-Net: Convolutional Networks for Biomedical Image Segmentation}
+      \field{volume}{9351}
+      \field{year}{2015}
+      \field{pages}{234\bibrangedash 241}
+      \range{pages}{8}
+    \endentry
+    \entry{chen}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={{Chen L.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=2df082d3bc7b42259f3413d632ecffc9}{%
+           family={{Papandreou G.}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=e82397158da0f711ae242a38f9062115}{%
+           family={{Kokkinos I.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=b1769bbaa2660cbedf14832523ae4d85}{%
+           family={{Murphy K.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=3d2e3625bb3e88bcbaedb1c4d857f35f}{%
+           family={{Yuille A. L. }},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{fullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{bibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authorbibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authornamehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{authorfullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1412.7062.pdf}}
+      \field{title}{Semantic image segmentation with deep convolutional nets and fully connected CRFs}
+      \field{year}{2015}
+    \endentry
+    \entry{chen2}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={{Chen L.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=2df082d3bc7b42259f3413d632ecffc9}{%
+           family={{Papandreou G.}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=e82397158da0f711ae242a38f9062115}{%
+           family={{Kokkinos I.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=b1769bbaa2660cbedf14832523ae4d85}{%
+           family={{Murphy K.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=3d2e3625bb3e88bcbaedb1c4d857f35f}{%
+           family={{Yuille A. L.}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{fullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{bibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authorbibnamehash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \strng{authornamehash}{a71a3ed7459c0265089af5238d0a6752}
+      \strng{authorfullhash}{8f32a8c8245d9768954f4c9b154b62d4}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{4}
+      \field{title}{DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs}
+      \field{volume}{40}
+      \field{year}{2017}
+      \field{pages}{834\bibrangedash 848}
+      \range{pages}{15}
+    \endentry
+    \entry{redmon}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0712b65985612db5b055749502dad611}{%
+           family={{Redmon J.}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=331756fb4ae81fa78b8fc063bdd1c3f2}{%
+           family={{Divvals S.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=54beefd8a2a6dc8ea32c277fc3036953}{%
+           family={{Girshick R.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=3bbe7ca290dea3886736153a91529beb}{%
+           family={{Farhadi A.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{103237cb6b194e9e60e932927375988b}
+      \strng{fullhash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \strng{bibnamehash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \strng{authorbibnamehash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \strng{authornamehash}{103237cb6b194e9e60e932927375988b}
+      \strng{authorfullhash}{488341d9b53e52966c9d1e67cb93bdc6}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{You Only Look Once: Unified, Real-Time Object Detection}
+      \field{year}{2016}
+      \field{pages}{779\bibrangedash 788}
+      \range{pages}{10}
+    \endentry
+    \entry{hu}{article}{}
+      \name{author}{3}{}{%
+        {{hash=30c3519915a07c272d6fd946f3eaa35a}{%
+           family={{Hu J.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=33bb4efa1081b1f17b4613c31c37e617}{%
+           family={{Shen L.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=3c17377c2ffa1676c810d97c02f8c306}{%
+           family={{Sun G.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{fullhash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{bibnamehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{authorbibnamehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{authornamehash}{1872f6ee4cedcd071d56ae62c9089719}
+      \strng{authorfullhash}{1872f6ee4cedcd071d56ae62c9089719}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IIEEE/CVF Conference on Computer Vision and Pattern Recognition}
+      \field{title}{Squeeze-and-Excitation Networks}
+      \field{year}{2017}
+      \field{pages}{7132\bibrangedash 7141}
+      \range{pages}{10}
+    \endentry
+    \entry{hinton2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b4906aab25c4a1182b5e4145c415d68a}{%
+           family={{Hinton G.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=b3d6d7d8552bb9ee823823fa6afbb3ee}{%
+           family={{Sabour S.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=b214af5babdb00061cbf87ae6a1e22b5}{%
+           family={{Frosst N.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{fullhash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{bibnamehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{authorbibnamehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{authornamehash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \strng{authorfullhash}{e1276f2ff47ae61049212c3f372b7cc2}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NIPS'17: Proceedings of the 31st International Conference on Neural Information Processing Systems}
+      \field{title}{Dynamic Routing Between Capsules}
+      \field{year}{2017}
+      \field{pages}{3859\bibrangedash 3869}
+      \range{pages}{11}
+    \endentry
+    \entry{yu}{article}{}
+      \name{author}{2}{}{%
+        {{hash=89b432fa4bb24ef9e7312fd806fb771b}{%
+           family={{Yu J.}},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=7b37b33590b6ced45c1ce1cddab2ef7a}{%
+           family={{Blaschko M.}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{fullhash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{bibnamehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{authorbibnamehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{authornamehash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \strng{authorfullhash}{75d9ee23c800f4cf9425feeabdc5b101}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{3}
+      \field{title}{The Lovász Hinge: A Novel Convex Surrogate for Submodular Losses}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{pages}{735\bibrangedash 748}
+      \range{pages}{14}
+    \endentry
+    \entry{iglovikov}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=cc20cb68ebc1073ca4829e799682958e}{%
+           family={{Iglovikov V.}},
+           familyi={I\bibinitperiod}}}%
+        {{hash=cfb9a0fdb6de852913c89dab5b823b29}{%
+           family={{Mushinskiy S.}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=d696c4f46fb902bc27823edd7521dad0}{%
+           family={{Osin V.}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{fullhash}{389d9d186376278d121b7e914c0bf552}
+      \strng{bibnamehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{authorbibnamehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{authornamehash}{389d9d186376278d121b7e914c0bf552}
+      \strng{authorfullhash}{389d9d186376278d121b7e914c0bf552}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1706.06169.pdf}}
+      \field{title}{Satellite Imagery Feature Detection using Deep Convolutional Neural Network: A Kaggle Competition}
+      \field{year}{2017}
+    \endentry
+    \entry{wu}{article}{}
+      \name{author}{8}{}{%
+        {{hash=3a6190350332d4c29299ed40bff3613f}{%
+           family={{Wu G.}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=1abfb3ee7cf9bb9e063ff5c59a795cea}{%
+           family={{Shao X.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=d884429739dbbf05c81641e87893b8f0}{%
+           family={{Guo Z.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=6dbedad2342e7fdc31f6a6905f472c6d}{%
+           family={{Chen Q.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=a8777b15050065e44890631e4970c0ae}{%
+           family={{Yuan W.}},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=05f7e0c820360d2ead95928afd606a67}{%
+           family={{Shi X.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=2efac453cb818e3e871c3147d9153d6d}{%
+           family={{Xu Y.}},
+           familyi={X\bibinitperiod}}}%
+        {{hash=ae2a4f1050247081a54424fa995ba6a0}{%
+           family={{Shibasaki R.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI‎}%
+      }
+      \strng{namehash}{566ff943a6f148b230b01f4254b6402a}
+      \strng{fullhash}{085a5e6152a5f0885308c9b52568c9dd}
+      \strng{bibnamehash}{085a5e6152a5f0885308c9b52568c9dd}
+      \strng{authorbibnamehash}{085a5e6152a5f0885308c9b52568c9dd}
+      \strng{authornamehash}{566ff943a6f148b230b01f4254b6402a}
+      \strng{authorfullhash}{085a5e6152a5f0885308c9b52568c9dd}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{number}{3}
+      \field{title}{Automatic Building Segmentation of Aerial Imagery Using Multi-Constraint Fully Convolutional Networks}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{pages}{407\bibrangedash 425}
+      \range{pages}{19}
+    \endentry
+    \entry{golovanov}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cd05d4c81ab6cbca95f65396dfded3d4}{%
+           family={{Golovanov S.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=270aa70b5a620c5b76f97a5f2009cd69}{%
+           family={{Kurbanov R.}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=88d4a66f8b9b335b2776285c7fa06ca6}{%
+           family={{Artamonov A.}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=fe87b1162f0997351db4f5569b4afef1}{%
+           family={{Davydow A.}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=3270f6ad8f95dcc0a12ec34b4874c6ba}{%
+           family={{Nikolenko S.}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{5de1a9fbf8c518a7bc2d042590d9acca}
+      \strng{fullhash}{a6a214656ce576ffc294689ad1ed43e5}
+      \strng{bibnamehash}{a6a214656ce576ffc294689ad1ed43e5}
+      \strng{authorbibnamehash}{a6a214656ce576ffc294689ad1ed43e5}
+      \strng{authornamehash}{5de1a9fbf8c518a7bc2d042590d9acca}
+      \strng{authorfullhash}{a6a214656ce576ffc294689ad1ed43e5}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}
+      \field{title}{Building Detection from Satellite Imagery Using a Composite Loss Function}
+      \field{year}{2018}
+    \endentry
+    \entry{chatterjee}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=cbd9c8d8332b703f9420154b2c094572}{%
+           family={{Chatterjee B.}},
+           familyi={C\bibinitperiod}}}%
+        {{hash=29fafcc7abcd50b005788768a4dd35d8}{%
+           family={{Poullis Ch.}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{fullhash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{bibnamehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{authorbibnamehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{authornamehash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \strng{authorfullhash}{fe5ce1b66cfd83392b4c5979b82d5102}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1912.09216.pdf}}
+      \field{title}{Semantic Segmentation from Remote Sensor Data and the Exploitation of Latent Learning for Classification of Auxiliary Tasks}
+      \field{year}{2019}
+    \endentry
+    \entry{zhu}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a6ce5334b2c4a46c7f7d08b1b2f5bc23}{%
+           family={{Zhu X.}},
+           familyi={Z\bibinitperiod}}}%
+        {{hash=6ac7a4bfc51836a9d9b209e2d6094659}{%
+           family={{Li X. Q.}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=846f5daf861748af3cff8500355fae0d}{%
+           family={{Shi Y.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=bf1afb45a50313a87b61c9f7a08f8989}{%
+           family={{Huang X.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{380bee65b5e25ff01c35cee997f80223}
+      \strng{fullhash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \strng{bibnamehash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \strng{authorbibnamehash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \strng{authornamehash}{380bee65b5e25ff01c35cee997f80223}
+      \strng{authorfullhash}{2b9d398415ead3e69a885f8fd04af9cd}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Geoscience and Remote Sensing}
+      \field{title}{Building Footprint Generation by Integrating Convolution Neural Network with Feature Pairwise Conditional Random Field (FPCRF)}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+    \endentry
+    \entry{girard}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=c1d5062f4479a5bb7a6c39515c1db4e0}{%
+           family={{Girard N.}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=716e77ccc387c3413ff3eb37a36a95b7}{%
+           family={{Smirnov D.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=4462fd0031dea52eb56192e05a335139}{%
+           family={{Solomon J.}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=77882dd41935d4f37e93872f2dc53a85}{%
+           family={{Tarabalka Y.}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{be32a6dba27e6f8364202ebf4b194c77}
+      \strng{fullhash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \strng{bibnamehash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \strng{authorbibnamehash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \strng{authornamehash}{be32a6dba27e6f8364202ebf4b194c77}
+      \strng{authorfullhash}{bb35bd8780c82ba1ee5611a6bca7cc8e}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/2004.14875.pdf}}
+      \field{title}{Polygonal Building Segmentation by Frame Field Learning}
+      \field{year}{2020}
+    \endentry
+    \entry{bischke}{article}{}
+      \name{author}{5}{}{%
+        {{hash=af45de29005d6db9307b4680492bcd7f}{%
+           family={{Bischke B.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=1ff16557f06ae541bd647569d64667f9}{%
+           family={{Helber P.}},
+           familyi={H\bibinitperiod}}}%
+        {{hash=aec8eef98794d830754f8273ab58fa65}{%
+           family={{Folz J.}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=0075d33aad1457e0bb3e32a356a9c38b}{%
+           family={{Borth D.}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=886007ba70cac0750c61f2058be1dc09}{%
+           family={{Dengel A.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers‎}%
+      }
+      \strng{namehash}{514a49cbd3334a24600ccfa0876ec727}
+      \strng{fullhash}{271a4001fb38413459788f8db26ddc76}
+      \strng{bibnamehash}{271a4001fb38413459788f8db26ddc76}
+      \strng{authorbibnamehash}{271a4001fb38413459788f8db26ddc76}
+      \strng{authornamehash}{514a49cbd3334a24600ccfa0876ec727}
+      \strng{authorfullhash}{271a4001fb38413459788f8db26ddc76}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2019 IEEE International Conference on Image Processing (ICIP)}
+      \field{title}{Multi-Task Learning for Segmentation of Building Footprints with Deep Neural Networks}
+      \field{year}{2017}
+      \field{pages}{1480\bibrangedash 1484}
+      \range{pages}{5}
+    \endentry
+    \entry{skarbek}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b65f89923eb91ae679705bea30b3f407}{%
+           family={{Skarbek W.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Polskie Towarzystwo Matematyczne‎}%
+      }
+      \strng{namehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{fullhash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{bibnamehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{authorbibnamehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{authornamehash}{b65f89923eb91ae679705bea30b3f407}
+      \strng{authorfullhash}{b65f89923eb91ae679705bea30b3f407}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fundamenta Informaticae}
+      \field{number}{2--4}
+      \field{title}{Symbolic Tensor Neural Networks for Digital Media – from Tensor Processing via BNF Graph Rules to CREAMS Applications}
+      \field{volume}{168}
+      \field{year}{2019}
+      \field{pages}{89\bibrangedash 184}
+      \range{pages}{96}
+    \endentry
+    \entry{pielawski}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=9a77381d7c9d70b62273090e12315dff}{%
+           family={{Pielawski N.}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=b581e428efae45e944fbf6f6e283f887}{%
+           family={{Wählby C.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{fullhash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{bibnamehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{authorbibnamehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{authornamehash}{1bfa99d5e033402815adb22fbfb85313}
+      \strng{authorfullhash}{1bfa99d5e033402815adb22fbfb85313}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dostęp zdalny (30.09.2020): \url{https://arxiv.org/pdf/1910.07831.pdf}}
+      \field{title}{Introducing Hann windows for reducing edge-effects in patch-based image segmentation}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,48 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {polish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1\relax .\enspace }Wstęp}{6}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2\relax .\enspace }Podstawy teoretyczne głębokiego uczenia}{8}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1\relax .\enspace }Głębokie uczenie - podstawowe definicje}{8}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2\relax .\enspace }Ewolucja architektur głębokiego uczenia}{13}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1\relax .\enspace }Cybernetyka (1943 - 1969)}{13}{subsubsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2\relax .\enspace }Konekcjonizm (1980 - 1998)}{15}{subsubsection.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3\relax .\enspace }Głębokie uczenie (2006 - 2020)}{20}{subsubsection.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3\relax .\enspace }Proces uczenia się głębokich sieci neuronowych}{35}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3\relax .\enspace }Przegląd literatury z zakresu detekcji budynków na zdjęciach lotniczych}{41}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4\relax .\enspace }Konstrukcja sieci \textit {GML-Net}}{47}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1\relax .\enspace } Najważniejsze hiperparametry sieci}{47}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2\relax .\enspace } Dane uczące i ich transformacje}{49}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3\relax .\enspace } Architektura sieci}{60}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4\relax .\enspace } Trenowanie sieci}{78}{subsection.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5\relax .\enspace }Analiza wyników}{90}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1\relax .\enspace }Generowanie finalnych predykcji}{90}{subsection.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2\relax .\enspace }Pomiar efektywności sieci \emph {GML-Net}}{98}{subsection.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3\relax .\enspace }Uzyskane wyniki na tle literatury badawczej}{103}{subsection.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6\relax .\enspace }Zakończenie}{105}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Bibliografia}{106}{section*.58}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Wykaz symboli i skrótów}{109}{section*.59}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Spis rysunków}{112}{section*.59}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Spis tabel}{112}{section*.59}%

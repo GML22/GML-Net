@@ -1,0 +1,19 @@
+[0] Config.pm:312> INFO - This is Biber 2.15 (beta)
+[0] Config.pm:315> INFO - Logfile is 'Praca.blg'
+[100] biber-MSWIN64:330> INFO - === 
+[120] Biber.pm:415> INFO - Reading 'Praca.bcf'
+[306] Biber.pm:952> INFO - Found 37 citekeys in bib section 0
+[330] Biber.pm:4334> INFO - Processing section 0
+[345] Biber.pm:4523> INFO - Looking for bibtex format file 'Bibliografia//bibliografia.bib' for section 0
+[351] bibtex.pm:1682> INFO - LaTeX decoding ...
+[403] bibtex.pm:1494> INFO - Found BibTeX data source 'Bibliografia//bibliografia.bib'
+[405] Utils.pm:395> WARN - Duplicate entry key: 'goodfellow' in file 'Bibliografia//bibliografia.bib', skipping ...
+[656] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[657] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[657] Biber.pm:4162> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pl-PL'
+[703] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[704] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[704] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'pl-PL'
+[729] bbl.pm:651> INFO - Writing 'Praca.bbl' with encoding 'UTF-8'
+[776] bbl.pm:754> INFO - Output to Praca.bbl
+[777] Biber.pm:128> INFO - WARNINGS: 1

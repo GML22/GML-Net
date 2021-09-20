@@ -1,0 +1,135 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+%%%%%%%%%%%   Zastosowanie głębokich sieci neuronowych do detekcji 
+%%%%%%%%%%             budynków na zdjęciach lotniczych                   
+%%%%%%%%%%                     Mateusz Gomulski                               
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[left=2.5cm, right=2.5cm, top=2.5cm, bottom=3cm, bindingoffset=6mm, nohyphenation=false]{Pakiety/thesis}
+
+\langpol
+\graphicspath{{Obrazy//}}
+\addbibresource{Bibliografia//bibliografia.bib}
+
+\begin{document}
+%---------------------------------------------------------------
+% Strona tytułowa
+%---------------------------------------------------------------
+\Thesis
+\instytut{Radioelektroniki i Technik Multimedialnych}
+\kierunek{Głębokie Sieci Neuronowe – Zastosowania w Mediach Cyfrowych}
+\title{Zastosowanie głębokich sieci neuronowych do detekcji budynków na zdjęciach lotniczych}
+\engtitle{Buildings detection in aerial images using deep neural networks}
+\author{Mateusz Gomulski}
+\promotor{prof. dr hab. inż. Władysław Skarbek}
+\date{\the\year}
+\maketitle
+
+%---------------------------------------------------------------
+% Streszczenie po polsku
+%---------------------------------------------------------------
+\clearpage
+\streszczenie 
+Niniejsza praca dyplomowa podejmuje problematykę detekcji budynków na zdjęciach lotniczych przy wykorzystaniu głębokich sieci neuronowych. Zastosowana konwolucyjna sieć neuronowa o~nazwie \textit{GML-Net} posiada architekturę typu \textit{U-Net} z~enkoderem wywodzącym się z~rodziny \textit{ResNet} oraz z blokami \textit{BottleNeck} zapewniającymi odczyt i~agregację map cech z~przekroju różnych skal. Wykorzystane w~bieżącej pracy punktowo i~wgłębnie separowalne konwolucje pozwalają sieci neuronowej efektywnie nauczyć się korelacji kanałów przestrzennych, uniknąć nadmiernego dopasowania oraz uzyskać większą efektywność obliczeniową. Jako funkcję straty zapewniającą efektywne uczenie się sieci, zdecydowano się użyć ważonej sumy \textit{Binary Cross-Entropy Loss}, \textit{Dice Loss} oraz \textit{Lovász hinge loss}. Niniejsza praca dyplomowa pokazuje, iż tak zbudowana sieć neuronowa pozwala uzyskać zadowalające wyniki przy zdjęciach lotniczych zawierających zaledwie trzy kanały przestrzenne (RGB). Wyniki te są tylko nieznacznie gorsze od wyników uzyskanych przez najlepsze modele wytrenowane na zbiorze danych \textit{Inria Aerial Image Labeling Dataset}.
+\slowakluczowe Głębokie sieci neuronowe, Zdjęcia lotnicze, Rozpoznawanie budynków, Segmentacja semantyczna, \textit{ResNet}, \textit{U-Net}, \textit{BottleNeck}
+
+%---------------------------------------------------------------
+% Streszczenie po angielsku
+%---------------------------------------------------------------
+\newpage
+\abstract 
+The diploma thesis deals with the problem of detecting buildings in aerial images using deep neural networks. The \textit{GML-Net} convolutional neural network that is used in this work has a \textit{U-Net} architecture with an encoder derived from the \textit{ResNet} family and \textit{BottleNeck} blocks that provide reading and aggregation of feature maps from a~cross-section of various scales. Pointwise and depthwise convolutions used in this diploma thesis allow neural network to effectively learn spatial channel correlation, avoid overfitting and obtain greater computational efficiency. Effective network learning is ensured by loss function defined as a~weighted sum of \textit{Binary Cross-Entropy Loss}, \textit{Dice Loss} and \textit{Lovász hinge Loss}. This diploma thesis shows that a~neural network constructed in such a~way allows to obtain satisfactory results for aerial images with only three spectral channels (RGB). These results are only slightly worse than the results achived by the best models trained on the \textit{Inria Aerial Image Labeling Dataset}.
+\keywords Deep neural networks, Aerial images, Buildings detection, Semantic segmentation, \textit{ResNet}, \textit{U-Net}, \textit{BottleNeck}
+\pagestyle{plain}
+
+%---------------------------------------------------------------
+% Spis treści
+%---------------------------------------------------------------
+\cleardoublepage
+\tableofcontents
+
+%---------------------------------------------------------------
+% Rozdziały
+%---------------------------------------------------------------
+\clearpage
+\pagestyle{headings}
+\input{Wstep/Wstep}
+
+\clearpage
+\input{Rozdzial1/Rozdzial1}
+
+\clearpage
+\input{Rozdzial2/Rozdzial2}
+
+\clearpage
+\section{Konstrukcja sieci \textit{GML-Net}}
+\input{Rozdzial3/Rozdzial3}
+
+\clearpage
+\input{Rozdzial4/Rozdzial4}
+
+\clearpage
+\input{Zakonczenie/Zakonczenie}
+                           
+%---------------------------------------------------------------
+% Literatura
+%---------------------------------------------------------------
+\clearpage
+\newrefcontext[sorting=nty]
+\printbibliography
+
+%---------------------------------------------------------------
+% Spisy
+%---------------------------------------------------------------
+\newpage
+\pagestyle{plain}
+\vspace{0.8cm}
+\acronymlist
+\acronym{ADALINE}{ang. \emph{Adaptive Linear Neuron}}
+\acronym{AI}{ang. \emph{Artificial Intelligence}}
+\acronym{BCE}{ang. \emph{Binary Cross-Entropy}}
+\acronym{BGD}{ang. \emph{Batch Gradient Descent}}
+\acronym{BSGD}{ang. \emph{Batch Stochastic Gradient Descent}}
+\acronym{BS}{ang. \emph{Batch Size}}
+\acronym{CNN}{ang. \emph{Convolutional Neural Network}} / ang. \emph{Capsule Neural Network}
+\acronym{CPU}{ang. \emph{Central Processing Unit}}
+\acronym{CE}{ang. \emph{Cross-Entropy}}
+\acronym{DL}{ang. \emph{Deep Learning} / ang. {Dice Loss}}
+\acronym{DNN}{ang. \emph{Deep Neural Network}}
+\acronym{ELU}{ang. \emph{Exponential Linear Unit}}
+\acronym{F1S}{ang. \emph{F1 Score}}
+\acronym{FNN}{ang. \emph{Feedforward Neural Network}}
+\acronym{FCN}{ang. \emph{Fully Convolutional Network}}
+\acronym{GAN}{ang. \emph{Generative Adversarial Networks}}
+\acronym{GPU}{ang. \emph{Graphics Processing Unit}}
+\acronym{GSN}{Głębokie Sieci Neuronowe}
+\acronym{GT}{ang. \emph{Ground Truth}}
+\acronym{ILSVRC}{ang. \emph{ImageNet Large Scale Visual Recognition Challenge}}
+\acronym{IAILD}{ang. \emph{Inria Aerial Image Labeling Dataset}}
+\acronym{IoU}{ang. \emph{Intersection over Union}}
+\acronym{LF}{ang. \emph{Loss Function}}
+\acronym{LHL}{ang. \emph{Lovasz Hinge Loss}}
+\acronym{LR}{ang. \emph{Learning Rate}}
+\acronym{LSTM}{ang. \emph{Long Short-Term Memory}}
+\acronym{MAE}{ang. \emph{Mean Absolute Error}}
+\acronym{MAP}{ang. \emph{Mean Average Precision}}
+\acronym{MBGD}{ang. \emph{Mini-Batch Gradient Descent}}
+\acronym{ML}{ang. \emph{Machine Learning}}
+\acronym{MLP}{ang. \emph{Multilayer Perceptron}}
+\acronym{MSE}{ang. \emph{Mean Square Error}}
+\acronym{OA}{ang. \emph{Overall Accuracy}}
+\acronym{RL}{ang. \emph{Representation Learning}} / {ang. \emph{Reinforcement Learning}}
+\acronym{R-CNN}{ang. \emph{Region Based Convolutional Neural Networks}}
+\acronym{RNN}{ang. \emph{Recurrent Neural Network}}
+\acronym{ROI}{ang. \emph{Regions of Interest}}
+\acronym{SGD}{ang. \emph{Stochastic Gradient Descent}}
+\acronym{SL}{ang. \emph{Supervised Learning}}
+\acronym{SoA}{ang. \emph{State of Art}}
+\acronym{SSIM}{ang. \emph{Structural Similarity Index Measure}}
+\acronym{SSL}{ang. \emph{Semi-Supervised Learning}}
+\acronym{TLU}{ang. \emph{Threshold Logic Unit}}
+\acronym{UL}{ang. \emph{Unsupervised Learning}}
+
+\clearpage
+\listoffigurestoc     % Spis rysunków.
+\vspace{1cm}          
+\listoftablestoc      % Spis tabel.
+\end{document}
