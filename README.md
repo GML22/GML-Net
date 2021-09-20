@@ -12,7 +12,7 @@ The GML-Net was developed to address the problem of detecting buildings in RGB a
 
 1444 overlaping samples             |  2D Hann windows
 :-------------------------:|:-------------------------:
-![](/Images/1444_samples.png)  |  ![](/Images/2D_Hann_windows2.png)
+![](/Images/1444_samples.png)  |  ![](/Images/2D_Hann_windows.png)
  
   
   achiving 96.23% of Overall Acuurency (1.02% behind State of Art) and 74.42% of Intersecion over Union (6.64% behind SoA) - detailed leaderboard of <i>Inria Aerial Image Labeling Dataset</i> contest is available at: https://project.inria.fr/aerialimagelabeling/leaderboard.
