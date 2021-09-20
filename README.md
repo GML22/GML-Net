@@ -11,7 +11,7 @@ The GML-Net is a convolutional neural network (CNN) that is based on U-Net archi
 The GML-Net was developed to address the problem of detecting buildings in RGB aerial images. It was trained on <i>Inria Aerial Image Labeling Dataset</i> (https://project.inria.fr/aerialimagelabeling) which consist of 180 color image tiles of size 5000×5000, covering a surface of 1500 m × 1500 m each (at a 30 cm resolution) of 5 cities: Austin, Chicago, Kitsap County, Western Tyrol and Vienna. Each 5000x5000 image was divided into 1444 overlapping samples with resolution 256x256 for which GML-Net generated the predictions of masks. 
   
 <p align="center">
-  <img width=75% height=75% src="1444_samples.png"/>
+  <img width=75% height=75% src="/Images/1444_samples.png"/>
 </p>
  
   
