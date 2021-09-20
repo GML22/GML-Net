@@ -18,8 +18,8 @@ The GML-Net was developed to address the problem of detecting buildings in RGB a
 Effective network learning of GML-Net was ensured by loss function defined as a weighted sum of Binary Cross-Entropy Loss (BCE), Dice Loss (DL) and Lovász hinge Loss (LHL) according to formula:
 </p>
 
-<p align="center">
-LF = 0.3 * BCE + 0.4 * DL + 0.3 * LHL
+<p align="center" font-size="large">
+  <b>LF = 0.3 * BCE + 0.4 * DL + 0.3 * LHL</b>
 </p>
  
 GML-Net achived 96.23% of Overall Acuurency (1.02% behind the State of Art) and 74.42% of Intersecion over Union (6.64% behind SoA) - detailed leaderboard of <i>Inria Aerial Image Labeling Dataset</i> contest is available at: https://project.inria.fr/aerialimagelabeling/leaderboard.
